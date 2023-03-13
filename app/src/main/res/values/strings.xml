@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency_2</string>
+    <string name="amount">Amount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string-array name="currencies">
+        <item>MAD</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
